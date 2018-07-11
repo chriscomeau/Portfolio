@@ -70,7 +70,9 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 ##### Screenshot
 
-...	
+![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe1.PNG)
+![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe2.PNG)
+
 
 
 ### Skyriser Video Poker game for BlackBerry 
