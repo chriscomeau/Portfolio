@@ -27,7 +27,9 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 (Skyriser Media, 2017, Objective-C, SpriteKit, StickerPack)
 
-[GitHub project](https://github.com/chriscomeau/CoinyBlock)
+* [GitHub project](https://github.com/chriscomeau/CoinyBlock)
+* [Web](http://coinyblock.com/)
+* [App Store](https://itunes.apple.com/app/id914537554)
 
 ![screenshot 1](https://github.com/chriscomeau/CoinyBlock/blob/master/screenshot1.png)
 
@@ -37,7 +39,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 (Skyriser Media, 2004, Java, J2M2)
 
 
-[GitHub project](https://github.com/chriscomeau/SkyriserVideoPoker)
+* [GitHub project](https://github.com/chriscomeau/SkyriserVideoPoker)
 
 ![screenshot 1](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/handango_poker1.gif)
 
@@ -47,9 +49,12 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ### Daily Wallpaper 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
 
-(Skyriser Media, 2017, Objective-C)
+(Skyriser Media, 2012, Objective-C)
 
-_(Coming soon...)_
+* [Web](http://dailywallpaperapp.com/)
+* [App Store](https://itunes.apple.com/app/id557949358)
+
+_(...)_
 
 
 
@@ -57,9 +62,12 @@ _(Coming soon...)_
 ### Password Grid 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
 
-(Objective-C)
+(Skyriser Media, 2011, Objective-C)
 
-_(Coming soon...)_
+* [Web](http://dailywallpaperapp.com/)
+* [App Store](https://itunes.apple.com/app/id557949358)
+
+_(...)_
 
 
 
