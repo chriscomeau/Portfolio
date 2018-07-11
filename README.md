@@ -33,12 +33,10 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 ![screenshot 1](https://github.com/chriscomeau/CoinyBlock/blob/master/screenshot1.png)
-
 ![screenshot 2](http://coinyblock.com/images/gif_title5.gif)
 ![screenshot 4](http://coinyblock.com/images/gif_chest2_3.gif)
 
-[![trailer](https://img.youtube.com/vi/OOjtKRZlJL0/0.jpg)](https://www.youtube.com/watch?v= OOjtKRZlJL0)
-
+![trailer](https://img.youtube.com/vi/OOjtKRZlJL0/0.jpg)
 
 
 ### Skyriser Video Poker game for BlackBerry 
