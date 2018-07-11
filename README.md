@@ -2,6 +2,9 @@
 
 #### Contact information:
 
+![profile](https://avatars2.githubusercontent.com/u/458833?s=88&v=4)
+
+
 Indie mobile game developer (at Skyriser Media: Unity, C#) 
 iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montreal, Canada.
 
