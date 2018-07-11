@@ -60,7 +60,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * For older BlackBerry devices (7200 series) 
 * Couldn't find origial source code, had to decompile them from Java executable.
 
-##### Screenshot
+##### Screenshots
 
 
 ![screenshot 1](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/handango_poker1.gif)
@@ -89,9 +89,11 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
-##### Screenshot
+##### Screenshots
 
-_(...)_
+![screenshot 1](http://dailywallpaperapp.com/images/screenshot1.jpg)
+![screenshot 2](http://dailywallpaperapp.com/images/screenshot2.jpg)
+![screenshot 3](http://dailywallpaperapp.com/images/screenshot3.jpg)
 
 
 
@@ -111,7 +113,7 @@ _(...)_
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
-##### Screenshot
+##### Screenshots
 
 _(...)_
 
