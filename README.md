@@ -85,6 +85,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 ##### Links
 
+* [GitHub project](https://github.com/chriscomeau/DailyWallpaper)
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
@@ -106,6 +107,7 @@ _(...)_
 
 ##### Links
 
+* [GitHub project](https://github.com/chriscomeau/PasswordGrid)
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
