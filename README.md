@@ -24,7 +24,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 # Games:
-#### Coiny Block (iOS retro clicker game)
+### Coiny Block (iOS retro clicker game)
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
 ##### Notes
@@ -51,7 +51,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 2](https://github.com/chriscomeau/CoinyBlock/blob/master/images/gif_gameplay5.gif)
 ![screenshot 3](http://coinyblock.com/images/gif_chest2_3.gif)
 
-#### TicTacToe
+### TicTacToe
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
 
@@ -76,7 +76,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 
-#### Skyriser Video Poker game for BlackBerry 
+###  Skyriser Video Poker game for BlackBerry 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/video_poker_icon.png)
 
 ##### Notes
@@ -102,7 +102,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 # Apps:
 
-#### Daily Wallpaper 
+###  Daily Wallpaper 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
 
 ##### Notes
@@ -126,7 +126,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 
-#### Password Grid 
+###  Password Grid 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
 
 ##### Notes
