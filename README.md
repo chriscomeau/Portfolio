@@ -2,10 +2,8 @@
 
 #### Contact information:
 
-Indie mobile game developer (Skyriser Media: Unity, C#) 
-iOS and macOS developer (Druide Informatique: Swift, Objective-C)
-Montreal, Canada
-
+Indie mobile game developer (at Skyriser Media: Unity, C#) 
+iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montreal, Canada.
 
 * [chris.comeau@skyriser.com](mailto:chris.comeau@skyriser.com)
 
