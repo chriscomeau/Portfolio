@@ -45,17 +45,31 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * [Youtube trailer](https://youtu.be/OOjtKRZlJL0)
 
 
+##### Screenshot
+
 ![screenshot 2](http://coinyblock.com/images/gif_title5.gif)
 ![screenshot 4](http://coinyblock.com/images/gif_chest2_3.gif)
 
 
 ### Skyriser Video Poker game for BlackBerry 
-(Skyriser Media, 2004, Java, J2M2)
 
+##### Notes
 
-* [GitHub project](https://github.com/chriscomeau/SkyriserVideoPoker)
+* Skyriser Media, 2004
+* Java, J2M2
+* For older BlackBerry devices (7200 series) 
+* Couldn't find origial source code, had to decompile them from Java executable.
+
+##### Screenshot
+
 
 ![screenshot 1](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/handango_poker1.gif)
+![screenshot 2](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/screenshot_poker2.jpg)
+![screenshot 3](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/screenshot_poker1.jpg)
+
+##### Links
+
+* [BlackBerry store](http://www.blackberrysoftware.us/v,c3ltYmlhbjEwNjM/skyriser_video_poker.jsp/)
 
 
 # Apps:
@@ -73,6 +87,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
+
+##### Screenshot
 
 _(...)_
 
@@ -92,6 +108,8 @@ _(...)_
 
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
+
+##### Screenshot
 
 _(...)_
 
