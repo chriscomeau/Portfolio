@@ -74,8 +74,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe3.PNG)
 ![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe4.PNG)
 
-### Combos
-Casual fighting game insprired reflex game (prototype)
+### Combos/ButtonBrawl
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/combo_icon.PNG)
 
 
 ##### Notes
@@ -94,7 +94,10 @@ Casual fighting game insprired reflex game (prototype)
 
 ##### Screenshot
 
-...	
+![screenshot 1](https://github.com/chriscomeau/Combos/blob/master/images/combo1.PNG)
+![screenshot 2](https://github.com/chriscomeau/Combos/blob/master/images/combo2.PNG)
+![screenshot 3](https://github.com/chriscomeau/Combos/blob/master/images/combo3.PNG)
+
 
 
 ###  Skyriser Video Poker game for BlackBerry 
