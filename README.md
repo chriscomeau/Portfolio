@@ -2,15 +2,19 @@
 
 #### Contact information:
 
+Indie mobile game developer (Skyriser Media: Unity, C#) 
+iOS and macOS developer (Druide Informatique: Swift, Objective-C)
+Montreal, Canada
 
-[chris.comeau@skyriser.com](mailto:chris.comeau@skyriser.com)
 
+* [chris.comeau@skyriser.com](mailto:chris.comeau@skyriser.com)
 
-[http://skyriser.com](http://skyriser.com)
+* [https://www.linkedin.com/in/christiancomeau](https://www.linkedin.com/in/christiancomeau)
 
-[http://chriscomeau.com](http://chriscomeau.com)
+* [http://skyriser.com](http://skyriser.com)
 
-[https://www.linkedin.com/in/christiancomeau](https://www.linkedin.com/in/christiancomeau)
+* [http://chriscomeau.com](http://chriscomeau.com)
+
 
 
 # Games:
