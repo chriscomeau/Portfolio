@@ -9,9 +9,10 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 * [https://www.linkedin.com/in/christiancomeau](https://www.linkedin.com/in/christiancomeau)
 
+* [http://chriscomeau.com](http://chriscomeau.com)
+
 * [http://skyriser.com](http://skyriser.com)
 
-* [http://chriscomeau.com](http://chriscomeau.com)
 
 
 
