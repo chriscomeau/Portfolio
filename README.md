@@ -2,7 +2,9 @@
 
 #### Contact information:
 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/logo.png)
 ![profile](https://avatars2.githubusercontent.com/u/458833?s=88&v=4)
+
 
 
 Indie mobile game developer (at Skyriser Media: Unity, C#) 
@@ -21,6 +23,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 # Games:
 #### CoinyBlock iOS retro clicker game 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
+
 (Skyriser Media, 2017, Objective-C, SpriteKit, StickerPack)
 
 [GitHub project](https://github.com/chriscomeau/CoinyBlock)
@@ -41,6 +45,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 # Apps:
 
 ### Daily Wallpaper 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
+
 (Skyriser Media, 2017, Objective-C)
 
 _(Coming soon...)_
@@ -49,6 +55,8 @@ _(Coming soon...)_
 
 
 ### Password Grid 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
+
 (Objective-C)
 
 _(Coming soon...)_
