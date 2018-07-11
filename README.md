@@ -70,8 +70,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 ##### Screenshot
 
-![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe1.PNG)
-![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe2.PNG)
+![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe3.PNG)
+![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe4.PNG)
 
 
 
