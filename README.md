@@ -51,7 +51,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 4](http://coinyblock.com/images/gif_chest2_3.gif)
 
 # TicTacToe
-Unity TicTacToe game
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
 
 ##### Notes
