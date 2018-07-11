@@ -1,5 +1,7 @@
 # Portfolio for Chris Comeau
 
+Portfolio of personal projects by Chris Comeau under Skyriser Media.
+
 #### Contact information:
 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/logo.png)
@@ -22,10 +24,20 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 # Games:
-#### CoinyBlock iOS retro clicker game 
+#### CoinyBlock iOS retro clicker game
+
+##### Features
+
+* Skyriser Media, 2017
+* Objective-C / Swift
+* SpriteKit, UIKit, CoreAnimation
+* TodayWidget extension
+* StickerPack extension
+
+
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
-(Skyriser Media, 2017, Objective-C, SpriteKit, StickerPack)
+##### Links
 
 * [GitHub project](https://github.com/chriscomeau/CoinyBlock)
 * [Web](http://coinyblock.com/)
@@ -51,7 +63,13 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ### Daily Wallpaper 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
 
-(Skyriser Media, 2012, Objective-C)
+##### Features
+
+* Skyriser Media, 2012
+* Objective-C
+* ...
+
+##### Links
 
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
@@ -64,7 +82,11 @@ _(...)_
 ### Password Grid 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
 
-(Skyriser Media, 2011, Objective-C)
+* Skyriser Media, 2011
+* Objective-C
+* ...
+
+##### Links
 
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
