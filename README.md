@@ -26,7 +26,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 # Games:
 #### CoinyBlock iOS retro clicker game
 
-##### Features
+##### Notes
 
 * Skyriser Media, 2017
 * Objective-C / Swift
@@ -63,7 +63,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ### Daily Wallpaper 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
 
-##### Features
+##### Notes
 
 * Skyriser Media, 2012
 * Objective-C
@@ -81,6 +81,8 @@ _(...)_
 
 ### Password Grid 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
+
+##### Notes
 
 * Skyriser Media, 2011
 * Objective-C
