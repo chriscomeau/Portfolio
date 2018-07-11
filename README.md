@@ -150,6 +150,4 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 
-
-
-_(More coming soon...)_
+**Note**: These projects are for reference only and does not compile. Some images/sounds/APIs/libraries were removed to prevent cloning. Also needs a good cleanup/refactoring.
