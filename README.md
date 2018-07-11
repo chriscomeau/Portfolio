@@ -25,6 +25,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 # Games:
 #### CoinyBlock iOS retro clicker game
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
 ##### Notes
 
@@ -35,7 +36,6 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * StickerPack extension
 
 
-![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
 ##### Links
 
@@ -52,6 +52,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 
 ### Skyriser Video Poker game for BlackBerry 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/video_poker_icon.png)
 
 ##### Notes
 
