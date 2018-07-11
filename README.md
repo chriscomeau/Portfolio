@@ -80,7 +80,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 ##### Notes
 
-* Skyriser Media, ???
+* Skyriser Media, 2014
 * Objective-C 
 * SpriteKit, UIKit, CoreAnimation
 
