@@ -21,9 +21,10 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * [http://skyriser.com](http://skyriser.com)
 
 
-
+---
 
 # Games:
+
 ### Coiny Block (iOS retro clicker game)
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
@@ -51,6 +52,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 2](https://github.com/chriscomeau/CoinyBlock/blob/master/images/gif_gameplay5.gif)
 ![screenshot 3](http://coinyblock.com/images/gif_chest2_3.gif)
 
+---
+
 ### TicTacToe
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
@@ -73,6 +76,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 
 ![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe3.PNG)
 ![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe4.PNG)
+
+---
 
 ### ButtonBrawl
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/combo_icon.PNG)
@@ -99,6 +104,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 3](https://github.com/chriscomeau/ButtonBrawl/blob/master/images/combo3.PNG)
 
 
+---
 
 ###  Skyriser Video Poker game for BlackBerry 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/video_poker_icon.png)
@@ -124,6 +130,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * [BlackBerry store](http://www.blackberrysoftware.us/v,c3ltYmlhbjEwNjM/skyriser_video_poker.jsp/)
 
 
+
+---
 # Apps:
 
 ###  Daily Wallpaper 
@@ -147,7 +155,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 2](http://dailywallpaperapp.com/images/screenshot2.jpg)
 ![screenshot 3](http://dailywallpaperapp.com/images/screenshot3.jpg)
 
-
+---
 
 
 ###  Password Grid 
