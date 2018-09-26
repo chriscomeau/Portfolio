@@ -140,8 +140,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ##### Notes
 
 * Skyriser Media, 2012
-* Objective-C
-* ...
+* Objective-C / Swift
+* Today widget and 3D Touch widget
 
 ##### Links
 
@@ -154,6 +154,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 1](http://dailywallpaperapp.com/images/screenshot1.jpg)
 ![screenshot 2](http://dailywallpaperapp.com/images/screenshot2.jpg)
 ![screenshot 3](http://dailywallpaperapp.com/images/screenshot3.jpg)
+![screenshot 3](http://dailywallpaperapp.com/images/screenshot4.jpg)
 
 ---
 
@@ -164,8 +165,10 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ##### Notes
 
 * Skyriser Media, 2011
-* Objective-C
-* ...
+* Objective-C / Swift
+* Today widget and 3D Touch widget
+* watchOS app and complication
+
 
 ##### Links
 
@@ -178,6 +181,8 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 ![screenshot 1](http://passwordgrid.com/images/passwordgrid1.jpg)
 ![screenshot 2](http://passwordgrid.com/images/passwordgrid2.jpg)
 ![screenshot 3](http://passwordgrid.com/images/passwordgrid3.jpg)
+![screenshot 5](http://passwordgrid.com/images/passwordgrid5.jpg)
+![screenshot 6](http://passwordgrid.com/images/passwordgrid6.jpg)
 
 
 
