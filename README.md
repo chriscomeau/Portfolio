@@ -33,7 +33,6 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * Skyriser Media, 2017
 * Objective-C / Swift
 * SpriteKit, UIKit, CoreAnimation
-* TodayWidget extension
 * StickerPack extension
 
 
@@ -167,6 +166,7 @@ iOS and macOS developer (at Druide Informatique: Swift, Objective-C). From Montr
 * Skyriser Media, 2011
 * Objective-C / Swift
 * Today widget and 3D Touch widget
+* Custom keyboard
 * watchOS app and complication
 
 
