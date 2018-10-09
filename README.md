@@ -74,6 +74,7 @@ From Montreal, Canada.
 ![screenshot 2](http://passwordgrid.com/images/passwordgrid2.jpg)
 ![screenshot 3](http://passwordgrid.com/images/passwordgrid3.jpg)
 ![screenshot 5](http://passwordgrid.com/images/passwordgrid5.jpg)
+![screenshot 7](http://passwordgrid.com/images/passwordgrid7.jpg)
 ![screenshot 6](http://passwordgrid.com/images/passwordgrid6.jpg)
 
 
