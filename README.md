@@ -38,7 +38,8 @@ From Montreal, Canada.
 
 * [GitHub project](https://github.com/chriscomeau/DailyWallpaper)
 * [Web](http://dailywallpaperapp.com/)
-* [App Store](https://itunes.apple.com/app/id557949358)
+
+   [![button](https://github.com/chriscomeau/Portfolio/blob/master/images/appstore_small.png)](https://itunes.apple.com/app/id557949358)
 
 ##### Screenshots
 
@@ -66,7 +67,8 @@ From Montreal, Canada.
 
 * [GitHub project](https://github.com/chriscomeau/PasswordGrid)
 * [Web](http://dailywallpaperapp.com/)
-* [App Store](https://itunes.apple.com/app/id557949358)
+
+   [![appstore](https://github.com/chriscomeau/Portfolio/blob/master/images/appstore_small.png)](https://itunes.apple.com/app/id359807331)
 
 ##### Screenshots
 
@@ -98,8 +100,9 @@ From Montreal, Canada.
 
 * [GitHub project](https://github.com/chriscomeau/CoinyBlock)
 * [Web](http://coinyblock.com/)
-* [App Store](https://itunes.apple.com/app/id914537554)
 * [Youtube trailer](https://youtu.be/OOjtKRZlJL0)
+
+   [![appstore](https://github.com/chriscomeau/Portfolio/blob/master/images/appstore_small.png)](https://itunes.apple.com/app/id914537554)
 
 
 ##### Screenshot
@@ -125,7 +128,8 @@ From Montreal, Canada.
 
 * [GitHub project](https://github.com/chriscomeau/QuoteAddict)
 * [Web](http://quoteaddict.com/)
-* [App Store](https://itunes.apple.com/app/id580936901)
+
+   [![appstore](https://github.com/chriscomeau/Portfolio/blob/master/images/appstore_small.png)](https://itunes.apple.com/app/id580936901)
 
 ##### Screenshots
 
