@@ -2,7 +2,7 @@
 
 Portfolio of personal projects by Chris Comeau under Skyriser Media.
 
-#### Contact information:
+## Contact information:
 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/logo.png)
 ![profile](https://avatars2.githubusercontent.com/u/458833?s=88&v=4)
@@ -17,6 +17,8 @@ From Montreal, Canada.
 
 * [chris.comeau@skyriser.com](mailto:chris.comeau@skyriser.com)
 
+* [https://github.com/chriscomeau](https://github.com/chriscomeau)
+
 * [https://www.linkedin.com/in/christiancomeau](https://www.linkedin.com/in/christiancomeau)
 
 * [http://chriscomeau.com](http://chriscomeau.com)
@@ -25,7 +27,7 @@ From Montreal, Canada.
 
 
 ---
-###  Daily Wallpaper 
+##  Daily Wallpaper 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/bingwallpapers_icon.jpg)
 
 ##### Notes
@@ -41,6 +43,25 @@ From Montreal, Canada.
 
    [![button](https://github.com/chriscomeau/Portfolio/blob/master/images/appstore_small.png)](https://itunes.apple.com/app/id557949358)
 
+
+##### Frameworks
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* [Firebase](https://github.com/firebase/firebase-ios-sdk)
+* [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+* [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)
+* [Google-Mobile-Ads-SDK](https://github.com/googleads/googleads-mobile-ios-examples)
+* [ChartboostSDK](https://github.com/ChartBoost/iOS-SDK-Pod)
+* [Flurry-iOS-SDK](https://github.com/flurry/flurry-ios-sdk)
+* [HapticHelper](https://github.com/emreyanik/HapticHelper)
+
+
+##### Requirements
+
+- iOS 12.0+ 
+- Xcode 10.2+
+- Swift 5.0+
+
 ##### Screenshots
 
 ![screenshot 1](http://dailywallpaperapp.com/images/screenshot1.jpg)
@@ -51,7 +72,7 @@ From Montreal, Canada.
 ---
 
 
-###  Password Grid 
+##  Password Grid 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/passwordgrid_icon.jpg)
 
 ##### Notes
@@ -84,7 +105,7 @@ From Montreal, Canada.
 
 ---
 
-### Coiny Block (iOS retro clicker game)
+## Coiny Block (iOS retro clicker game)
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/coinyblock_icon.jpg)
 
 ##### Notes
@@ -113,7 +134,7 @@ From Montreal, Canada.
 
 
 ---
-###  Quote Addict 
+##  Quote Addict 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/quoteaddict_icon.jpg)
 
 ##### Notes
@@ -146,7 +167,7 @@ From Montreal, Canada.
 
 ---
 
-### ButtonBrawl
+## ButtonBrawl
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/combo_icon.PNG)
 
 
@@ -172,7 +193,7 @@ From Montreal, Canada.
 
 ---
 
-### TicTacToe
+## TicTacToe
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
 
@@ -197,7 +218,7 @@ From Montreal, Canada.
 
 ---
 
-###  Skyriser Video Poker game for BlackBerry 
+##  Skyriser Video Poker game for BlackBerry 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/video_poker_icon.png)
 
 ##### Notes
