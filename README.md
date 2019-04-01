@@ -25,6 +25,114 @@ From Montreal, Canada.
 
 * [http://skyriser.com](http://skyriser.com)
 
+---
+
+## Shopify iOS Collection
+
+[Shopify](https://www.shopify.ca) API tests project, based on Mobile Developer iOS Intern Challenge Summer 2019
+
+
+##### Features
+
+- [x] Swift 5.0
+- [x] Unit tests
+- [x] Carthage dependency manager
+- [x] SwifLint style checker
+- [X] UIViewControllers created programmatically
+- [X] Native JSON parsing (Swift Codable)
+- [X] Image caching/prefetching
+- [X] Using [Result](https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md) for API errors (~~custom~~ native Swift 5 type)
+- [X] Haptic feedback
+- [X] Search bar filtering
+
+##### Links
+
+* [GitHub project](https://github.com/chriscomeau/ShopifyiOSCollections)
+ 
+##### Frameworks
+
+- ~~Alamofire/Alamofire~~ NSURLSessions
+- ~~SwiftyJSON/SwiftyJSON~~ JSON parsing with Swift Codable
+- [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData) (Not yet added)
+- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+
+
+##### Requirements
+
+- iOS 11.0+ 
+- Xcode 10.2+
+- Swift 5.0+
+
+##### Screenshots
+
+![screenshot 1](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/screenshots/screenshot1.png)
+![screenshot 2](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/screenshots/screenshot2.png) 
+![screenshot 3](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/screenshots/screenshot3.png)
+
+
+---
+
+## FunctionalTableDataTest
+
+
+Test project for trying out [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData).
+
+
+##### Features
+
+- [x] Swift 5.0
+- [x] Carthage dependency manager
+
+
+##### Links
+
+* [GitHub project](https://github.com/chriscomeau/FunctionalTableDataTest)
+
+##### Frameworks
+
+- [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData)
+- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+
+
+ 
+##### Requirements
+
+- iOS 12.0+ 
+- Xcode 10.2+
+- Swift 5.0+
+
+
+##### Screenshots
+
+![screenshot 1](https://github.com/chriscomeau/FunctionalTableDataTest/blob/master/screenshots/screenshot1.png)
+
+
+---
+## SkyriserUtilities
+
+Skyriser Media - Swift Utilities - [http://skyriser.com/](http://skyriser.com/)
+
+##### Features
+
+* Swift 4.2
+
+##### Utilities
+
+- Alerts+Utils.swift
+- App+Utils.swift
+- Bundle+Utils.swift
+- Colors.Utils.swift
+- Date+Utils.swift
+- Haptics+Utils.swift
+- Image+Utils.swift
+- Network+Utils.swift
+- Numbers+Utils.swift
+- String+Utils.swift
+
+##### Links
+
+* [GitHub project](https://github.com/chriscomeau/SkyriserUtilities)
+
 
 ---
 ##  Daily Wallpaper 
