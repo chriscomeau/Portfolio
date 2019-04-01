@@ -15,7 +15,7 @@ Indie mobile game developer (at Skyriser Media: Unity, C#).
 
 From Montreal, Canada. 
 
-* [Email](mailto:chris.comeau@skyriser.com)
+* [Email (chris.comeau@skyriser.com)](mailto:chris.comeau@skyriser.com)
 
 * [GitHub](https://github.com/chriscomeau)
 
