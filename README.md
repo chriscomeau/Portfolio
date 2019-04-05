@@ -33,6 +33,8 @@ From Montreal, Canada.
 
 ## Shopify iOS Collection
 
+![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
+
 [Shopify](https://www.shopify.ca) API tests project, based on Mobile Developer iOS Intern Challenge Summer 2019
 
 
@@ -78,6 +80,7 @@ From Montreal, Canada.
 
 ## FunctionalTableDataTest
 
+![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
 
 Test project for trying out [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData).
 
