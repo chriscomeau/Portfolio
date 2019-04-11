@@ -1,4 +1,5 @@
-[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift) [![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
+[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift) [![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![iOS](https://img.shields.io/badge/platform-iOS-lightgray.svg?style=flat)](https://developer.apple.com/)
+ [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
 # Portfolio for Chris Comeau
 
