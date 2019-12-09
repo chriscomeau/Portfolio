@@ -33,6 +33,8 @@ From Montreal, Canada.
 
 ## Shopify
 
+![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
+
 Worked one their admin ios application (fulltime)
 
 * bug fixes
@@ -41,15 +43,13 @@ Worked one their admin ios application (fulltime)
 
 #### Screenshots
 
-![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/screenshots/shopify1.png)
+![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/images/shopify1.png)
 
 #### Links
 [https://apps.apple.com/ca/app/shopify-ecommerce-business/id371294472](https://apps.apple.com/ca/app/shopify-ecommerce-business/id371294472)
 
 
 ##### iOS Collection
-
-![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
 
 [Shopify](https://www.shopify.ca) API tests project, based on Mobile Developer iOS Intern Challenge Summer 2019
 
@@ -94,8 +94,6 @@ Worked one their admin ios application (fulltime)
 
 
 ##### FunctionalTableDataTest
-
-![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
 
 Test project for trying out [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData).
 
@@ -143,7 +141,7 @@ Worked one macOS and iOS dictionnary app (fulltime position)
 
 #### Screenshots
 
-![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/screenshots/antidote1.png)
+![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/images/antidote1.png)
 
 
 #### Links
