@@ -1,5 +1,4 @@
-[![Swift 4.2](https://img.shields.io/badge/swift-4.2-red.svg?style=flat)](https://developer.apple.com/swift) [![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![iOS](https://img.shields.io/badge/platform-iOS-lightgray.svg?style=flat)](https://developer.apple.com/)
- [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
+[![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![iOS](https://img.shields.io/badge/platform-iOS-lightgray.svg?style=flat)](https://developer.apple.com/) [![iOS](https://img.shields.io/badge/platform-macOS-lightgray.svg?style=flat)](https://developer.apple.com/) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
 # Portfolio for Chris Comeau
 
@@ -12,9 +11,9 @@ Portfolio of personal projects by Chris Comeau under Skyriser Media.
 
 
 
-iOS/watchOS/macOS developer (at Druide Informatique: SwiftO/bjective-C).
+iOS/macOS developer (freelance, Swift/Objective-C).
 
-Indie mobile game developer (at Skyriser Media: Unity, C#). 
+Part time indie mobile game developer (at Skyriser Media: Unity, C#). 
 
 From Montreal, Canada. 
 
@@ -32,7 +31,23 @@ From Montreal, Canada.
 
 ---
 
-## Shopify iOS Collection
+## Shopify
+
+Worked one their admin ios application (fulltime)
+
+* bug fixes
+* adding new UI/features
+* adding new unit/snapshot tests
+
+#### Screenshots
+
+![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/screenshots/shopify1.png)
+
+#### Links
+[https://apps.apple.com/ca/app/shopify-ecommerce-business/id371294472](https://apps.apple.com/ca/app/shopify-ecommerce-business/id371294472)
+
+
+##### iOS Collection
 
 ![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
 
@@ -77,9 +92,8 @@ From Montreal, Canada.
 ![screenshot 3](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/screenshots/screenshot3.png)
 
 
----
 
-## FunctionalTableDataTest
+##### FunctionalTableDataTest
 
 ![shopify logo](https://github.com/chriscomeau/ShopifyiOSCollections/blob/master/images/shopify-logo.png)
 
@@ -113,6 +127,30 @@ Test project for trying out [Shopify/FunctionalTableData](https://github.com/Sho
 ##### Screenshots
 
 ![screenshot 1](https://github.com/chriscomeau/FunctionalTableDataTest/blob/master/screenshots/screenshot1.png)
+
+
+
+---
+## Druide - Antidote
+
+Worked one macOS and iOS dictionnary app (fulltime position)
+
+* adding new UI/features
+* bug fixes, on latest beta iOS/macOS versions
+* worked on adding splitview mode on iOS
+* worked on adding dark mode on iOS
+
+
+#### Screenshots
+
+![screenshot 1](https://github.com/chriscomeau/Portfolio/blob/master/screenshots/antidote1.png)
+
+
+#### Links
+[https://www.antidote.info](https://www.antidote.info)
+
+[https://apps.apple.com/ca/app/antidote-mobile-french/id797819487](https://apps.apple.com/ca/app/antidote-mobile-french/id797819487)
+
 
 
 ---
