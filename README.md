@@ -1,21 +1,19 @@
 [![Swift 5.0](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) [![iOS](https://img.shields.io/badge/platform-iOS-lightgray.svg?style=flat)](https://developer.apple.com/) [![iOS](https://img.shields.io/badge/platform-macOS-lightgray.svg?style=flat)](https://developer.apple.com/) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
-# Portfolio for Chris Comeau
+### General information
 
-Portfolio of personal projects by Chris Comeau under Skyriser Media.
+Portfolio projects by Chris Comeau iOS/macOS developer (freelance, Swift/Objective-C). From Montreal, Canada. 
 
-## Contact information:
+Available for **freelance/contract** work.
+
+
+### Contact information:
 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/logo.png)
 ![profile](https://avatars2.githubusercontent.com/u/458833?s=88&v=4)
 
 
 
-iOS/macOS developer (freelance, Swift/Objective-C).
-
-Part time indie mobile game developer (at Skyriser Media: Unity, C#). 
-
-From Montreal, Canada. 
 
 * [Email (chris.comeau@skyriser.com)](mailto:chris.comeau@skyriser.com)
 
