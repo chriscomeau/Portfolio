@@ -174,8 +174,7 @@ Worked one macOS and iOS dictionnary app (fulltime position)
 ##### Screenshot
 
 ![screenshot 1](http://coinyblock.com/images/gif_title5.gif)
-![screenshot 2](https://github.com/chriscomeau/CoinyBlock/blob/master/images/gif_gameplay5.gif)
-![screenshot 3](http://coinyblock.com/images/gif_chest2_3.gif)
+![screenshot 2](http://coinyblock.com/images/gif_chest2_3.gif)
 
 
 ---
@@ -239,6 +238,7 @@ Skyriser Media - Swift Utilities - [http://skyriser.com/](http://skyriser.com/)
 
 ---
 
+
 ## ButtonBrawl
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/combo_icon.PNG)
 
@@ -271,9 +271,8 @@ Skyriser Media - Swift Utilities - [http://skyriser.com/](http://skyriser.com/)
 
 ##### Notes
 
-* Skyriser Media, in progress
+* Skyriser Media, work in progress
 * Unity, C#
-* ...
 
 **Note**: This project is for reference only and does not compile. Some image/sound assets and libraries were removed.
 
@@ -331,8 +330,8 @@ Skyriser Media - Swift Utilities - [http://skyriser.com/](http://skyriser.com/)
 
 ![screenshot 1](http://www.skyriser.com/images/app_nomogram.jpg)
 
-##### Links
 
+---
 
 
 **Note**: These projects are for reference only and does not compile. Some images/sounds/APIs/libraries were removed to prevent cloning. Also needs a good cleanup/refactoring.
