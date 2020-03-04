@@ -2,7 +2,8 @@
 
 ### General information
 
-Portfolio projects by Chris Comeau iOS/macOS developer (freelance, Swift/Objective-C). From Montreal, Canada. 
+Portfolio projects by Chris Comeau, iOS/macOS Freelance Developer (Swift/Objective-C).
+Ex-Shopify. Dad. From Montreal, Canada. 
 
 Available for **freelance/contract** work.
 
